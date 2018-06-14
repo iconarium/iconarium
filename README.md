@@ -1,1 +1,1 @@
-# iconarium.gitgub.io
+# iconarium.github.io
