@@ -1,0 +1,76 @@
+body 
+{
+	padding: 0;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #606c71;
+	margin: 0 auto;
+}
+
+h3
+{
+	color:#159957;
+}
+
+h4
+{
+	margin-bottom: 0px;
+}
+
+p
+{
+	margin-top: 0px;
+}
+
+a 
+{
+  color:#39c;
+  font-weight:400;
+  text-decoration:none;
+}
+
+a:hover
+{
+	text-decoration: none;
+}
+
+
+.page-header
+{
+	height:2rem;
+	background-color: #212121;
+}
+
+.page-footer
+{
+	border-top:1px solid #212121;
+	max-width: 980px;
+	margin: 0 auto;
+	font-size:14px;
+	margin-top:20px;
+	padding-top:1px;
+}
+
+.logo 
+{
+	width: 115px;
+	height:24px;
+	margin-top: 0.1rem;
+	margin-bottom: 0.1rem;
+}
+
+@media (max-width: 979px) 
+{
+	.page-footer
+	{
+		text-align: center;
+		width:90%;
+	}
+	
+	.page-footer span
+	{
+		float: none;
+		width: 100%;
+	}	
+}
